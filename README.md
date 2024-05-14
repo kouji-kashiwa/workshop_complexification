@@ -29,3 +29,4 @@ TBA
 - 本研究会は  
   [科学研究費補助金学術変革領域研究(C) 「ブラックホールの情報喪失問題解決に向けたホーキング輻射の多角的解析」](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K03946/)  
   [科学研究費補助金学術変革領域研究(A)「学習物理学の創成」](https://mlphys.scphys.kyoto-u.ac.jp/)
+  のサポートを受けています。
