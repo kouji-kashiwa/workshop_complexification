@@ -13,7 +13,7 @@
 ## 参加者
 - 公開予定
 
-## 開催場所・日時
+## 開催場所・日時・形式
 - 場所：佐賀大学 本庄キャンパス 理工学部 ？？棟？？階？？室  
   [交通アクセス](https://www.saga-u.ac.jp/access/)
 - 日時：12月23日（月）～12月27日（金）
@@ -26,8 +26,7 @@
   疋田 泰章（京都大）「Complex saddles in three-dimensional gravity via holography and mini-superspace approach」  
   三角 樹弘（近畿大）「場の量子論におけるリサージェンス構造と複素化」  
 　  
-- 一般講演の一覧  
-  [リスト](TBA)
+- 一般講演の [リスト](TBA)
 
 ## プログラム
 - TBA
