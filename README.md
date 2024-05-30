@@ -24,7 +24,7 @@
 - 招待講演者（順不同）：  
   田島 裕之（東京大）「冷却フェルミ原子気体の非エルミート量子多体理論」  
   西村 淳　（ＫＥＫ）「量子宇宙論と超弦理論の数値シミュレーション」  
-  疋田 泰章（京都大）「TBA」  
+  疋田 泰章（京都大）「Complex saddles in three-dimensional gravity via holography and mini-superspace approach」  
   三角 樹弘（近畿大）「場の量子論におけるリサージェンス構造と複素化」  
 　  
 - 一般講演の一覧  
