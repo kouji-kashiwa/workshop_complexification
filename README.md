@@ -12,7 +12,7 @@
 
 ## 開催場所・日時・形式
 - 場所：佐賀大学 本庄キャンパス 理工学部6号館DC棟２階  
-  [交通アクセス](https://www.saga-u.ac.jp/access/)　　[キャンパスマップ](http://www.saga-u.ac.jp/gaiyo1/campusmap/index.html) (32番)
+  [交通アクセス](https://www.saga-u.ac.jp/access/)　　[キャンパスマップ](http://www.saga-u.ac.jp/gaiyo1/campusmap/index.html) (マップ番号32番)
 - 日時：12月23日（月）～12月27日（金）
 - 形式：完全対面
 
