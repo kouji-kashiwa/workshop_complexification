@@ -16,7 +16,7 @@
   [交通アクセス](https://www.saga-u.ac.jp/access/)　　[キャンパスマップ](http://www.saga-u.ac.jp/gaiyo1/campusmap/index.html) (マップ番号32番)
 - 日時：12月23日（月）～12月27日（金）
 - 形式：完全対面
-- 研究会初日（23日）は午後から開始（午前はReception）となります。また、最終日の午後はfree discussionの時間を予定しています。
+- 研究会初日（23日）は午後開始（午前はReception）となります。また、最終日の午後はfree discussionの時間を予定しています。
 
 ## 招待講演・一般講演
 - 招待講演者（順不同）  
