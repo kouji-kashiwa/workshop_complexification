@@ -38,5 +38,4 @@
   [科学研究費補助金学術変革領域研究(A)「学習物理学の創成」](https://mlphys.scphys.kyoto-u.ac.jp/)  
   素粒子論サブグループ「研究会の茶菓子代等サポート」  
   のサポートを受けています。
-　<!-- [基礎物理学研究所「地域スクール・ワークショップ制度」](https://www.yukawa.kyoto-u.ac.jp/assets/contents/kyoudou/PDF/boshu.pdf)  -->
   
