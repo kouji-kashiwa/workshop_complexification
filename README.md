@@ -26,14 +26,14 @@
   田島 裕之（東京大）「冷却フェルミ原子気体の非エルミート量子多体理論」(26日午後と27日午前の予定)
   <!--　-->
 - 一般講演の (順不同)  (TBA)
-  <!-- 青山 茂義 （ＫＥＫ）　　　　「複素座標スケーリング方による少数多体系の非束縛状態の物理」  -->
-  <!-- 森田 健 　（静岡大）　　　　「Imaginary chemical potentials and imaginary angular velocities in Holography」  -->
-  <!-- 山森 直幸 （ＫＥＫ、総研大）「超弦理論の非摂動論的定式化としての行列模型におけるローレンツ対称性を保つ新しい定義」  -->
-  <!-- Tingyu Zhang （東京大）　　「Andreev Reflection in Utracold Atomic Systems as an Information Mirror」  -->
-  <!-- 大島 理樹 （佐賀大）　　　　「量子色力学におけるRoberge-Weiss転移とモジュラー変換」  -->
-  <!-- 鴻巣 圭佑 （東京大）　　　　「Correlation functions on Lefschetz thimbles from homotopy algebras」  -->
-  <!-- 宮地 大河 （神戸大）　　　　「完全WKB解析を用いたブラックホール準固有振動の解析」  -->
-  <!-- 鎌田 翔 　（東京大）　　　　「Can we access to PT symmetric QMs from Hermitian QMs, and vice versa?」  -->
+  青山 茂義 （ＫＥＫ）　　　　「複素座標スケーリング方による少数多体系の非束縛状態の物理」  
+  森田 健 　（静岡大）　　　　「Imaginary chemical potentials and imaginary angular velocities in Holography」  
+  山森 直幸 （ＫＥＫ、総研大）「超弦理論の非摂動論的定式化としての行列模型におけるローレンツ対称性を保つ新しい定義」  
+  Tingyu Zhang （東京大）　　「Andreev Reflection in Utracold Atomic Systems as an Information Mirror」  
+  大島 理樹 （佐賀大）　　　　「量子色力学におけるRoberge-Weiss転移とモジュラー変換」  
+  鴻巣 圭佑 （東京大）　　　　「Correlation functions on Lefschetz thimbles from homotopy algebras」  
+  宮地 大河 （神戸大）　　　　「完全WKB解析を用いたブラックホール準固有振動の解析」  
+  鎌田 翔 　（東京大）　　　　「Can we access to PT symmetric QMs from Hermitian QMs, and vice versa?」  
 
 ## プログラム
 -  [日程表](TBA)  (TBA)
