@@ -37,7 +37,7 @@
   鎌田 翔 　（東京大）　　　　「Can we access to PT symmetric QMs from Hermitian QMs, and vice versa?」  
 
 ## プログラム
--  [日程表](TBA)  (TBA)
+-  [日程表と概要](TBA)  (TBA)
 
 ## 各種情報
 - 世話人（順不同）  
