@@ -19,7 +19,7 @@
 - 研究会初日（23日）は午後開始（午前はReception）となります。また、最終日の午後はfree discussionの時間を予定しています。
 
 ## 招待講演・一般講演
-- 招待講演者  
+- 招待講演  
   西村 淳　（ＫＥＫ）「量子宇宙論と超弦理論の数値シミュレーション」(23日午後と24日午前の予定)  
   疋田 泰章（京都大）「Complex saddles in three-dimensional gravity via holography and mini-superspace approach」(24日午後と25日午前の予定)  
   三角 樹弘（近畿大）「場の量子論におけるリサージェンス構造と複素化」(25日午後と26日午前の予定)   
