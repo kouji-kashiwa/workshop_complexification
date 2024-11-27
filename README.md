@@ -27,7 +27,7 @@
   <!--　-->
   
 - 一般講演  
-  青山 茂義 （ＫＥＫ）　　　　「複素座標スケーリング方による少数多体系の非束縛状態の物理」  
+  青山 茂義 （ＫＥＫ）　　　　「複素座標スケーリング法による少数多体系の非束縛状態の物理」  
   森田 健 　（静岡大）　　　　「Imaginary chemical potentials and imaginary angular velocities in Holography」  
   山森 直幸 （ＫＥＫ、総研大）「超弦理論の非摂動論的定式化としての行列模型におけるローレンツ対称性を保つ新しい定義」  
   Tingyu Zhang （東京大）　　「Andreev Reflection in Utracold Atomic Systems as an Information Mirror」  
