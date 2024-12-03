@@ -9,7 +9,7 @@
   ~~参加申し込み希望者（の内、懇親会参加希望者）は11月29日までとなっております。~~ <mark>（締め切りました）</mark>   
   一般講演の希望者が多数の場合、講演の選定は世話人にご一任ください。  
    [参加登録フォーム](https://forms.gle/919K1jHAihKMBynF9) 
-- 参加者の [リスト](TBA) (TBA)
+- 参加者の [リスト](https://drive.google.com/file/d/1ToemsGRTeaBOzHkUR14eIB8ln_kuU8md/view?usp=drive_link) (12/03 16:30 時点)
 
 ## 開催場所・日時・形式
 - 場所：佐賀大学 本庄キャンパス 理工学部6号館DC棟2階  
