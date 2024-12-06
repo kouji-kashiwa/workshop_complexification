@@ -10,7 +10,7 @@
   口頭講演の申し込みと懇親会への参加、宿舎利用の申請は締め切っておりますが、研究会の聴講は可能です。  
   聴講を希望される場合は、下記フォームから登録をお願いします。  
    [参加登録フォーム](https://forms.gle/919K1jHAihKMBynF9) 
-- 参加者の [リスト](https://drive.google.com/file/d/1ToemsGRTeaBOzHkUR14eIB8ln_kuU8md/view?usp=drive_link) (12/03 16:30 時点)
+- 参加者の [リスト](https://drive.google.com/file/d/1ToemsGRTeaBOzHkUR14eIB8ln_kuU8md/view?usp=drive_link) (12/06 16:17 時点)
 
 ## 開催場所・日時・形式
 - 場所：佐賀大学 本庄キャンパス 理工学部6号館DC棟2階  
