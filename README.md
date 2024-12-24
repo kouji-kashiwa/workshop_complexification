@@ -36,7 +36,6 @@
   鴻巣 圭佑 （東京大）　　　　「[Correlation functions on Lefschetz thimbles from homotopy algebras](https://drive.google.com/file/d/1rMaa09Nm2z1umF2pMpLhelJJRe69hCYu/view?usp=drive_link)」  
   宮地 大河 （神戸大）　　　　「完全WKB解析を用いたブラックホール準固有振動の解析」  
   鎌田 翔 　（東京大）　　　　「Can we access to PT symmetric QMs from Hermitian QMs, and vice versa?」  
-(https://drive.google.com/file/d/1rMaa09Nm2z1umF2pMpLhelJJRe69hCYu/view?usp=drive_link)
 ## プログラム
 -  [日程表と概要](https://drive.google.com/file/d/1TG52lj5DWKVTpDYHzHZ9EeZaQjxeeR__/view?usp=drive_link) 
 
