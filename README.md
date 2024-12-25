@@ -22,7 +22,9 @@
 ## 招待講演・一般講演
 - 招待講演  
   西村 淳　（ＫＥＫ）「[量子宇宙論と超弦理論の数値シミュレーション](https://drive.google.com/file/d/18cVtoQNw47mWyG4y_zNAu7De_l3uJQqG/view?usp=sharing)」  
-  疋田 泰章（京都大）「Complex saddles in three-dimensional gravity via holography and mini-superspace approach（[リンク1](https://drive.google.com/file/d/1dIx9Hq4mRimnV6YLyVv5I_CjBdZOLNt-/view?usp=drive_link)） （[リンク2](https://drive.google.com/file/d/1c4CzfGNt7y_NBTjn_5uazrOd6ZCUFdZC/view?usp=drive_link)）」  
+  疋田 泰章（京都大）「Complex saddles in three-dimensional gravity via holography and mini-superspace approach  
+          （[リンク1](https://drive.google.com/file/d/1dIx9Hq4mRimnV6YLyVv5I_CjBdZOLNt-/view?usp=drive_link)）
+          （[リンク2](https://drive.google.com/file/d/1c4CzfGNt7y_NBTjn_5uazrOd6ZCUFdZC/view?usp=drive_link)）」  
   三角 樹弘（近畿大）「場の量子論におけるリサージェンス構造と複素化」   
   田島 裕之（東京大）「冷却フェルミ原子気体の非エルミート量子多体理論」
   <!--　-->
