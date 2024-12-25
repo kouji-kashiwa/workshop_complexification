@@ -22,14 +22,14 @@
 ## 招待講演・一般講演
 - 招待講演  
   西村 淳　（ＫＥＫ）「[量子宇宙論と超弦理論の数値シミュレーション](https://drive.google.com/file/d/18cVtoQNw47mWyG4y_zNAu7De_l3uJQqG/view?usp=sharing)」  
-  疋田 泰章（京都大）「Complex saddles in three-dimensional gravity via holography and mini-superspace approach」  
+  疋田 泰章（京都大）「Complex saddles in three-dimensional gravity via holography and mini-superspace approach[リンク1](https://drive.google.com/file/d/1dIx9Hq4mRimnV6YLyVv5I_CjBdZOLNt-/view?usp=drive_link) [リンク2](https://drive.google.com/file/d/1c4CzfGNt7y_NBTjn_5uazrOd6ZCUFdZC/view?usp=drive_link)」  
   三角 樹弘（近畿大）「場の量子論におけるリサージェンス構造と複素化」   
   田島 裕之（東京大）「冷却フェルミ原子気体の非エルミート量子多体理論」
   <!--　-->
   
 - 一般講演  
   青山 茂義 （ＫＥＫ）　　　　「複素座標スケーリング法による少数多体系の非束縛状態の物理」  
-  森田 健 　（静岡大）　　　　「Imaginary chemical potentials and imaginary angular velocities in Holography」  
+  森田 健 　（静岡大）　　　　「[Imaginary chemical potentials and imaginary angular velocities in Holography](https://drive.google.com/file/d/1inhPHlkhYzXBaPki5ZalgPpZGZYVvhPs/view?usp=drive_link)」  
   山森 直幸 （ＫＥＫ、総研大）「超弦理論の非摂動論的定式化としての行列模型におけるローレンツ対称性を保つ新しい定義」  
   Tingyu Zhang （東京大）　　「Andreev Reflection in Utracold Atomic Systems as an Information Mirror」  
   大島 理樹 （佐賀大）　　　　「量子色力学におけるRoberge-Weiss転移とモジュラー変換」  
