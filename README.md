@@ -7,7 +7,7 @@
 ## 参加登録
 - ~~口頭発表希望者（および旅費補助申請希望者）は11月8日まで、~~ <mark>（締め切りました）</mark>  
   ~~参加申し込み希望者（の内、懇親会参加希望者）は11月29日までとなっております。~~ <mark>（締め切りました）</mark>   
-- 参加者の [リスト](https://drive.google.com/file/d/1ToemsGRTeaBOzHkUR14eIB8ln_kuU8md/view?usp=drive_link) (12/16 19:35 時点)
+- 参加者の [リスト](https://drive.google.com/file/d/1ToemsGRTeaBOzHkUR14eIB8ln_kuU8md/view?usp=drive_link) (12/27 9:00 時点)
 
 ## 開催場所・日時・形式
 - 場所：佐賀大学 本庄キャンパス 理工学部6号館DC棟2階  
