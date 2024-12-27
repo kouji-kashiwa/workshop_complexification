@@ -30,7 +30,7 @@
   森田 健 　（静岡大）　　　　「[Imaginary chemical potentials and imaginary angular velocities in Holography](https://drive.google.com/file/d/1inhPHlkhYzXBaPki5ZalgPpZGZYVvhPs/view?usp=drive_link)」  
   山森 直幸 （ＫＥＫ、総研大）「超弦理論の非摂動論的定式化としての行列模型におけるローレンツ対称性を保つ新しい定義」  
   Tingyu Zhang （東京大）　　「Andreev Reflection in Utracold Atomic Systems as an Information Mirror」  
-  大島 理樹 （佐賀大）　　　　「量子色力学におけるRoberge-Weiss転移とモジュラー変換」  
+  河野 宏明  （佐賀大）　　　　「量子色力学におけるRoberge-Weiss転移とモジュラー変換」  
   鴻巣 圭佑 （東京大）　　　　「[Correlation functions on Lefschetz thimbles from homotopy algebras](https://drive.google.com/file/d/1rMaa09Nm2z1umF2pMpLhelJJRe69hCYu/view?usp=drive_link)」  
   宮地 大河 （神戸大）　　　　「完全WKB解析を用いたブラックホール準固有振動の解析」  
   鎌田 翔 　（東京大）　　　　「Can we access to PT symmetric QMs from Hermitian QMs, and vice versa?」  
