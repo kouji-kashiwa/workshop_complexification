@@ -28,11 +28,11 @@
 - 一般講演  
   青山 茂義 （ＫＥＫ）　　　　「複素座標スケーリング法による少数多体系の非束縛状態の物理」  
   森田 健 　（静岡大）　　　　「[Imaginary chemical potentials and imaginary angular velocities in Holography](https://drive.google.com/file/d/1inhPHlkhYzXBaPki5ZalgPpZGZYVvhPs/view?usp=drive_link)」  
-  山森 直幸 （ＫＥＫ、総研大）「超弦理論の非摂動論的定式化としての行列模型におけるローレンツ対称性を保つ新しい定義」  
+  山森 直幸 （ＫＥＫ、総研大）「[超弦理論の非摂動論的定式化としての行列模型におけるローレンツ対称性を保つ新しい定義](https://drive.google.com/file/d/1dgdrhtvjPP9WBPqZt6vdy_j74IJcMCtI/view?usp=sharing)」  
   Tingyu Zhang （東京大）　　「Andreev Reflection in Utracold Atomic Systems as an Information Mirror」  
   河野 宏明  （佐賀大）　　　　「量子色力学におけるRoberge-Weiss転移とモジュラー変換」  
   鴻巣 圭佑 （東京大）　　　　「[Correlation functions on Lefschetz thimbles from homotopy algebras](https://drive.google.com/file/d/1rMaa09Nm2z1umF2pMpLhelJJRe69hCYu/view?usp=drive_link)」  
-  宮地 大河 （神戸大）　　　　「完全WKB解析を用いたブラックホール準固有振動の解析」  
+  宮地 大河 （神戸大）　　　　「[完全WKB解析を用いたブラックホール準固有振動の解析](https://drive.google.com/file/d/1ojvvNp2fa63hVtBIuZroJUk65i_tfCvU/view?usp=sharing)」  
   鎌田 翔 　（東京大）　　　　「Can we access to PT symmetric QMs from Hermitian QMs, and vice versa?」  
 ## プログラム
 -  [日程表と概要](https://drive.google.com/file/d/1TG52lj5DWKVTpDYHzHZ9EeZaQjxeeR__/view?usp=drive_link) 
